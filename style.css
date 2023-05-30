@@ -162,7 +162,7 @@ nav {
 
 #landing {
   height: 70vh;
-  background: url("/wp10318660.jpg") no-repeat center center/cover;
+  background: url("./wp10318660.jpg") no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
