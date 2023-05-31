@@ -253,11 +253,6 @@ nav {
   animation-delay: .2s;
 }
 
-.twitterLink {
-  color: rgb(0, 172, 237);
-  animation-delay: .4s;
-}
-
 .emailSpan {
   font-size: 1em;
 }
@@ -576,7 +571,6 @@ textarea {
     height: 100vh;
   }
 }
-
 
 @keyframes navLinkFade {
   from {
